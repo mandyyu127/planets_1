@@ -2,3 +2,4 @@ this is my first line
 I know how to use git
 lets od anohter text line
 4th line
+my new line
